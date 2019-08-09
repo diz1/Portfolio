@@ -1,0 +1,11 @@
+<svg id="Dribbble" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="41" viewBox="0 0 41 41">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e51a68;
+      }
+    </style>
+  </defs>
+  <rect id="bg" class="cls-1" width="41" height="41"/>
+  <image id="dribbble-2" data-name="dribbble" x="9" y="9" width="23" height="23" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAABsklEQVRIiY1V7W3CQAy1Jf6XDZoR2KAZgW6QEWCC0gkYISOEDUInCBuEDWCDV7nYyPg+GksRd8bPH8++O1oqANYAWvldDKoJgA7AgLyIvqvhOacEsCWiIxE1qjoT0Y8zeScisZEqrkS0Z+bTkmx7zXMGcHTrhA6tbFab41LHvTlzAbJg7cVYDSBUmOMM2LJrM7gNgJt+UEoTB/LnVAjcGj1BvzMcgEaTmCN4V8rM2djUHLTKSfeDo7BTXeeBUxIxrcwSMJkTCh62oh9lvVLdhohOmnnjRvAj7E1OzPxZyEXGtot85uSmk2BUNNa8SpUH9dOsnH5PRBdd35n5kgE2atMqjb6iczB/cX5l5mjgnX49y32INPHb7d+UXhuKuzXrbwr+KRNK0dYdmtiL56HzijnOuAa18Zv8mLqR22Wcv/py2XkHll2fcWDVjkHfJkHdFIy+tBJVPnjQTepnHY0t+6GUccG+pddLL6HKAP5hqL44joKDv01rAN/EMTcNwRbuNqxWGks2kPAoe8lUPhlF2dvFJXZ5KioBpMnSWLvLo4heghTpy76huUDhqF+Y+V4FEdEvM4YNA5cwG+oAAAAASUVORK5CYII="/>
+</svg>

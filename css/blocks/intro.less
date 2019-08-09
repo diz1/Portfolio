@@ -2,10 +2,12 @@
 
 .intro__inner {
     display: flex;
-    border-bottom: 1px solid fade(@grey, 30%);
-
     padding-bottom: 120px;
     padding-top: 100px;
+    position: relative;
+
+    background: url(../images/symbols.png) right bottom no-repeat;
+    border-bottom: 1px solid fade(@grey, 30%);
 }
 
 .intro__content {
@@ -34,5 +36,8 @@
 }
 
 .intro__photo {
-    width: 50%;
+    position: absolute;
+    bottom: -1px;
+    right: 71;
+    z-index: 1;
 }
